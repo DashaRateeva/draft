@@ -4,5 +4,6 @@ export const data = [
     {app_name: 'instagram', username:'Dasha_rt', password: '1234'},
     {app_name: 'github', username:'DashaR', password: '1234'},
     {app_name: 'telegram', username:'Dasha_rt', password: '1234'},
-    {app_name: 'spotify', username:'Dasha_rt', password: '1234'},
+    {app_name: 'telegram', username:'Dasha_rt', password: '1234'},
+
 ];
